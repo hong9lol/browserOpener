@@ -1,0 +1,8 @@
+whale
+http://www.naver.com
+http://www.google.com
+http://www.github.com
+chrome
+http://www.naver.com
+http://www.google.com
+http://www.github.com
